@@ -1,0 +1,22 @@
+globaldriver amdgpu
+maxgputemp 85
+stratumproxy enabled
+proxywallet 0x5422642E14375E5d2adbb8879d0ddC832641fbFA
+proxypool1 eth-ru.dwarfpool.com:8008
+proxypool2 eth-eu.dwarfpool.com:8008
+flags --cl-local-work 256 --cl-global-work 16384 --farm-recheck 200
+custompanel amber4c3h7oh
+globalfan 90
+globalcore 1266
+globalmem 2000
+
+driver 48f5c3 amdgpu
+flg 48f5c3 --cl-local-work 256 --cl-global-work 16384 --farm-recheck 200
+pwr 48f5c3 4 4 4 4 4
+loc 48f5c3 383002
+
+driver 48f5d5 amdgpu
+flg 48f5d5 --cl-local-work 256 --cl-global-work 16384 --farm-recheck 200
+pwr 48f5d5 4 4 4 4 4
+loc 48f5d5 383003
+

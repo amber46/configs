@@ -1,0 +1,29 @@
+globaldriver fglrx
+maxgputemp 85
+stratumproxy enabled
+proxywallet 0x45393b350476d48a7bab242d7d0d23f0fe737edd
+proxypool1 eth-ru.dwarfpool.com:8008
+proxypool2 eth-eu.dwarfpool.com:8008
+#proxypool1 eu1.ethermine.org:4444
+#proxypool2 us1.ethermine.org:4444
+flags --farm-recheck 200
+globalcore 1130
+globalmem 1400
+globalfan 90
+globalpowertune 50
+autoreboot false
+custompanel amber4c3h7oh
+driver 9d3d26 fglrx
+flg 9d3d26 --cl-local-work 256 --cl-global-work 16384 --farm-recheck 200
+loc 9d3d26 383001
+cor 9d3d26 1140 1140 1110 1140 1140 1140
+
+# mxt 9d3d26 80
+# reb 9d3d26 1
+# sel 9d3d26 1 2 4
+
+# cor 9d3d26 950 1000 1050 1025 980
+# mem 9d3d26 1250 1500 1500 1250 1250
+# fan 9d3d26 90 80 85 100 70
+# pwr 9d3d26 10 20 15 15 20
+# vlt 9d3d26 0 1.118 0 0 1.118
