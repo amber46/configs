@@ -1,0 +1,1 @@
+alias myd00m='/usr/bin/mysqldump --add-drop-table --add-locks --quick --lock-tables --disable-keys --quote-names --allow-keywords'
